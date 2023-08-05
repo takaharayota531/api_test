@@ -1,0 +1,38 @@
+[
+    {
+        "Username": "johndoe",
+        "Last": "Doe",
+        "LastKana": "ドウ",
+        "First": "John",
+        "FirstKana": "ジョン",
+        "IconURL": "https://example.com/path/to/johndoe/icon.jpg",
+        "StatusText": "Hello, world!"
+    },
+    {
+        "Username": "janedoe",
+        "Last": "Doe",
+        "LastKana": "ドウ",
+        "First": "Jane",
+        "FirstKana": "ジェーン",
+        "IconURL": "https://example.com/path/to/janedoe/icon.jpg",
+        "StatusText": "Good day, world!"
+    },
+    {
+        "Username": "bobsmith",
+        "Last": "Smith",
+        "LastKana": "スミス",
+        "First": "Bob",
+        "FirstKana": "ボブ",
+        "IconURL": "https://example.com/path/to/bobsmith/icon.jpg",
+        "StatusText": "Hi, there!"
+    },
+    {
+        "Username": "alicesmith",
+        "Last": "Smith",
+        "LastKana": "スミス",
+        "First": "Alice",
+        "FirstKana": "アリス",
+        "IconURL": "https://example.com/path/to/alicesmith/icon.jpg",
+        "StatusText": "Hello, folks!"
+    }
+]
